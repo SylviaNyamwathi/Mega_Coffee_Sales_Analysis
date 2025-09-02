@@ -34,4 +34,5 @@ This project presents an interactive analysis of coffee sales performance across
 
 ## Screenshot
 
-<img width="1381" height="838" alt="image" src="https://github.com/user-attachments/assets/b863512f-9279-48a3-8ee4-77915d6b2e98" />
+<img width="1380" height="840" alt="image" src="https://github.com/user-attachments/assets/1635e985-9e37-4a78-adcf-a89202763a4c" />
+
